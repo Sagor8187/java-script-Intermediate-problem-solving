@@ -1,4 +1,4 @@
-
+//3. Frequency Counter
 let letter = ["a","b","a","c","b","a"]
 // out put → {a:3, b:2, c:1}
 
